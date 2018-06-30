@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\bin\Debug\ProjectManagementTool.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\bin\Debug\ProjectManagementTool.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\bin\Debug\ProjectManagementTool.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.pdb
